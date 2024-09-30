@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo David Segura 24-25'),
+      home: const MyHomePage(title: 'Flutter Demo David Segura 24-25'), //configuració del títol
     );
   }
 }
